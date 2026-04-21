@@ -13,6 +13,7 @@ A deep learning project for recognizing handwritten drug names from word-level i
 | ![](150.png) | bicozin |
 | ![](265.png) | esoral |
 
+Video: https://github.com/anishaalmao/crnn-handwritten-drug-ocr/blob/main/demo.mov 
 ---
 
 ## 🧠 What this does
